@@ -1,25 +1,47 @@
-Ezzeldin Ayman Ghazal
-👋 AI Engineer & Data Scientist 
+<!-- Profile README for Ezzeldin Ayman Ghazal -->
 
-👋 About Me
-I’m an AI Engineer & Data Scientist with hands-on experience building end-to-end machine learning and NLP solutions. I specialize in advanced AI techniques like Retrieval-Augmented Generation (RAG) and LLM-based agents, leveraging Python, LangChain, and Azure AI services. With a strong foundation in deep learning, statistics, and data storytelling, I’m passionate about solving real-world problems through scalable, intelligent AI systems. I thrive in fast-paced, research-driven environments and continuously push myself to learn new skills.
-🚀 Selected Projects
-I’ve tackled several innovative AI projects that showcase my skills:
-RAG Chatbot: Developed a PDF-based Q&A chatbot using Azure AI Search and Azure OpenAI, achieving over 90% answer accuracy on technical documents.
-AI Procurement Assistant: Built an AI agent with LangChain and GPT-4 to automate product search and generate dynamic procurement reports, streamlining decision-making.
-Chest X-ray Classifier: Trained a CNN to detect pneumonia in chest X-rays with >98% accuracy, using advanced medical image preprocessing and deep learning.
-Other Highlights: Created a real-time hand gesture controller with OpenCV & TensorFlow (for intuitive UI control), and an interactive Power BI dashboard for retail analytics (sales, inventory, customer insights).
-💡 Skills & Technologies
-My core skill set includes:
-Languages: Python, SQL
-Frameworks: TensorFlow, PyTorch, scikit-learn, Keras
-Tools & Libraries: LangChain, OpenCV, Pandas, NumPy, Matplotlib, Power BI
-Cloud & AI Services: Azure AI Search, Azure OpenAI, Streamlit (for web demos)
-These skills have enabled me to build robust ML pipelines, data processing tools, and intelligent applications. I’m also experienced with prompt engineering and RAG architectures.
-🌟 Mentorship & Interests
-I’m committed to community and personal growth. As a core trainer in the Google Developer Student Club at Zarqa University, I’ve led AI workshops and mentored peers in data science and software development. I also enjoy speaking at tech meetups and sharing knowledge with others. Outside of work, I thrive on continuous learning and resilience – always exploring new AI techniques and taking on challenges with a growth mindset.
-📫 Let’s Connect
-LinkedIn: linkedin.com/in/ezz-ghazal
-GitHub: github.com/EZZGHAZAL
-Email: ezzghazal888@gmail.com
-Feel free to explore my GitHub repositories for detailed code samples, and reach out if you’d like to collaborate on AI projects or discuss ideas. I’m always excited to connect with fellow enthusiasts and professionals!
+<p align="center">
+  <img src="your-photo.jpg" width="200" alt="Ezzeldin Ayman Ghazal" style="border-radius: 50%">
+</p>
+
+<h1 align="center">Hi there 👋 I'm Ezzeldin Ayman Ghazal</h1>
+
+<p align="center">
+  🚀 AI Engineer | 🧠 Data Scientist | 💡 Problem Solver<br>
+  📍 Amman, Jordan · 🌐 <a href="https://linkedin.com/in/ezz-ghazal">LinkedIn</a> · 📫 <a href="mailto:ezzghazal888@gmail.com">Email Me</a>
+</p>
+
+---
+
+### 🧠 About Me
+
+I’m an **AI Engineer and Data Scientist** passionate about solving real-world problems using intelligent, scalable AI systems.
+
+- 💬 Skilled in **Machine Learning**, **NLP**, **LLMs**, and **RAG architecture**
+- ⚙️ Experienced with **LangChain**, **Azure OpenAI**, **Streamlit**, **Python**, and **Power BI**
+- 🔭 Always building: Chatbots, AI Agents, Dashboards, and ML Pipelines
+- 🧑‍🏫 Core team member & trainer at GDSC-ZU (led AI workshops & mentoring sessions)
+
+---
+
+### 💼 Projects I’m Proud Of
+
+| Project | Description |
+|--------|-------------|
+| 🔹 **RAG Chatbot** | PDF-based Q&A bot using Azure AI Search + OpenAI (90%+ accuracy) |
+| 🔹 **AI Procurement Assistant** | LangChain + GPT-4 agent for automating product sourcing/reporting |
+| 🔹 **Retail Dashboard** | Power BI insights dashboard for sales, inventory, and customer data |
+| 🔹 **Gesture Mouse Controller** | Real-time hand gesture recognition with OpenCV + TensorFlow |
+| 🔹 **Chest X-ray Classifier** | CNN for pneumonia detection (>98% accuracy on test data) |
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+```text
+💻 Languages:      Python | SQL
+⚙️  Frameworks:     TensorFlow | PyTorch | Scikit-learn | Keras
+🧪 ML Tools:        Pandas | NumPy | OpenCV | Seaborn | Matplotlib
+☁️ Cloud/Platforms: Azure AI | Azure OpenAI | Streamlit
+🧠 Concepts:        LLMs | RAG | Prompt Engineering | Deep Learning | NLP
+📊 Visualization:   Power BI | Plotly | Dash
