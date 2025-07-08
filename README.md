@@ -1,9 +1,3 @@
-<!-- GitHub Profile README for Ezzeldin Ayman Ghazal -->
-
-<p align="center">
-  <img src=""F:\Dum2\Downloads\Ezzeldin Ghazal.jpg"" width="200" alt="Ezzeldin Ayman Ghazal" style="border-radius: 50%">
-</p>
-
 <h1 align="center">Hi there 👋 I'm Ezzeldin Ayman Ghazal</h1>
 
 <p align="center">
