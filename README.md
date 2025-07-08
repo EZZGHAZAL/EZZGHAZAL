@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Ezzeldin Ghazal 👋
 
-<!--
-**EZZGHAZAL/EZZGHAZAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Intern at Estarta (via Unihance) | Trainer @ GDSC-ZU  
+📍 Based in Zarqa, Jordan  
+💡 Passionate about ML, AI, and Data Engineering  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- SQL, Excel, Power BI
+- Machine Learning & Deep Learning
+- Data Preprocessing, Visualization
+- RPA, LangChain, CrewAI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Excel Salary Dashboard** - [View](https://lnkd.in/eQZMyx4w)  
+- **AI Procurement Assistant** (LangChain-based)  
+- **Multi-source Classification System** (ML & DL with HR/Finance data)
+
+## 🌱 Currently Learning
+- Advanced Deep Learning
+- Time Series Forecasting
+- AI Workflow Automation
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-link/)
+- [Email](mailto:ezzghazal888@gmail.com)
+
+---
