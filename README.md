@@ -211,22 +211,6 @@ Stack     Python · Scikit-learn · React · Streamlit · Pandas
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=EZZGHAZAL&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=0F6E56" alt="GitHub Streak" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZZGHAZAL&layout=compact&hide_border=true&title_color=0F6E56&text_color=444441&bg_color=ffffff00&langs_count=6" alt="Top Languages" width="40%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EZZGHAZAL&theme=minimal&hide_border=true&color=1D9E75&line=1D9E75&point=0F6E56&area=true&area_color=E1F5EE" width="100%" alt="Activity Graph"/>
-
-</div>
 
 ---
 
